@@ -6,7 +6,7 @@
 
 <font color="pink">We are building the future. </font>
 
-## Reach out to me
+## Reach out to we
 
 <a href="https://twitter.com/pusulafinans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
 <a href="https://pusulafinans.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
@@ -18,14 +18,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pusulafinanslabs&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
-- 🔭 I’m currently working on [developing new blockchain](pusulafinanslabs@protonmail.com)
+- 🔭 We are currently working on [developing new blockchain](pusulafinanslabs@protonmail.com)
 
-- 🌱 I’m currently learning **Blokchain**
+- 🌱 We are currently learning **Blokchain**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/pusulafinanslabs?tab=repositories)
+- 👨‍💻 All of us projects are available at [Github](https://github.com/pusulafinanslabs?tab=repositories)
 
-- 📝 I regularly write articles on Layer-1 Blokchain
+- 📝 We regularly write articles on Layer-1 Blokchain
 
-- 💬 Ask me about [Mail](pusulafinanslabs@protonmail.com) - [Twitter](https://twitter.com/pusulafinans) -[Telegram](https://t.me/pusulafinans)
+- 💬 Ask about us [Mail](pusulafinanslabs@protonmail.com) - [Twitter](https://twitter.com/pusulafinans) -[Telegram](https://t.me/pusulafinans)
 
 - ⚡ Fun fact **Managing Community | produce content**
