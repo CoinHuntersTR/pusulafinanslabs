@@ -22,7 +22,7 @@
 
 - 🌱 We are currently learning **Blokchain**
 
-- 👨‍💻 All of us projects are available at [Github](https://github.com/pusulafinanslabs?tab=repositories)
+- 👨‍💻 All of us projects are available at [Github](https://discord.gg/B9upKkpU)
 
 - 📝 We regularly write articles on Layer-1 Blokchain
 
