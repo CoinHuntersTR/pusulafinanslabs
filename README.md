@@ -11,7 +11,7 @@
 <a href="https://twitter.com/pusulafinans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
 <a href="https://pusulafinans.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/PusulaFinans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
-<a href="https://discord.gg/QJ9r58jP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
+<a href="https://discord.gg/TNDcT4UnB7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pusulafinanslabs&label=Profile%20views&color=0e75b6&style=flat" alt="pusulafinanslabs" /> <a href="https://twitter.com/pusulafinans" target="blank"><img src="https://img.shields.io/twitter/follow/pusulafinans?logo=twitter&style=for-the-badge" alt="pusulafinans" /></a> 
@@ -22,7 +22,7 @@
 
 - 🌱 We are currently learning **Blokchain**
 
-- 👨‍💻 All of us projects are available at [Github](https://discord.gg/TNDcT4UnB7)
+- 👨‍💻 All of us projects are available at [Github](https://github.com/pusulafinanslabs)
 
 - 📝 We regularly write articles on Layer-1 Blokchain
 
