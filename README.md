@@ -22,7 +22,7 @@
 
 - 🌱 We are currently learning **Blokchain**
 
-- 👨‍💻 All of us projects are available at [Github](https://discord.gg/B9upKkpU)
+- 👨‍💻 All of us projects are available at [Github](https://discord.gg/TNDcT4UnB7)
 
 - 📝 We regularly write articles on Layer-1 Blokchain
 
