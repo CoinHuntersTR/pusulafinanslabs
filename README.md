@@ -26,6 +26,6 @@
 
 - 📝 We regularly write articles on Layer-1 Blokchain
 
-- 💬 Ask about us [Mail](pusulafinanslabs@protonmail.com) - [Twitter](https://twitter.com/pusulafinans) -[Telegram](https://t.me/pusulafinans)
+- 💬 Ask about us mail:pusulafinanslabs@protonmail.com - [Twitter](https://twitter.com/pusulafinans) -[Telegram](https://t.me/pusulafinans)
 
 - ⚡ Fun fact **Managing Community | produce content**
